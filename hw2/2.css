@@ -1,0 +1,17 @@
+a{
+    margin: 5px;
+    text-decoration: none;
+}
+.ddd{
+    display: flex;
+    justify-content: end;
+
+}
+
+.quote{
+    margin-left: 20px;
+}
+
+p{
+    width: 30%;
+}
