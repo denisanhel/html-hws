@@ -1,0 +1,19 @@
+
+.odg{
+    display: flex;
+    justify-content: space-between;
+
+}
+.block{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transition: 1s;
+}
+
+.block:hover{
+    transition: 1s;
+    border-radius: 50%;
+    background-color: gray;
+
+}
