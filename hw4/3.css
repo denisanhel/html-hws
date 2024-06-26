@@ -1,0 +1,60 @@
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+}
+
+#red{
+    height: 100vh;
+    width: 100vw;
+    background-color: indianred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#aqua{
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#red h2{
+    justify-content: center;
+    align-items: center;
+}
+
+.obg{
+    display: flex;
+    flex-direction: column;
+}
+
+#green{
+    height: 100vh;
+    width: 100vw;
+    background-color: seagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.reverse{
+    rotate: 180deg;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+
+
+
