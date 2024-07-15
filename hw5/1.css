@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.obj{
+    display: flex;
+    flex-direction: column;
+}
+.pink{
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    background-color: pink;
+    justify-content: center;
+    align-items: center;
+}
+
+.black{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    background-color: black;
+}
+
+.sec{
+    color: white;
+}
+
+.secp{
+    color: white;
+}

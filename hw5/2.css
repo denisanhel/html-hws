@@ -1,0 +1,71 @@
+body{
+    background-color: aqua;
+}
+.obj{
+    width: 80vw;
+    height: 5vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 105px;
+
+}
+
+h1{
+    margin-left: 25vw;
+    font-size: 110px;
+}
+
+.card1{
+    height: 30vh;
+    width: 15vw;
+    background-color: black;
+
+}
+.card2{
+    height: 30vh;
+    width: 15vw;
+    background-color: red;
+}
+.card3{
+    height: 30vh;
+    width: 15vw;
+    background-color: green;
+}
+.card4{
+    height: 30vh;
+    width: 15vw;
+    background-color: blue;
+}
+.card5{
+    height: 30vh;
+    width: 15vw;
+    background-color: fuchsia;
+}
+.card6{
+    height: 30vh;
+    width: 15vw;
+    background-color: white;
+    margin-top: 20px;
+}
+.card7{
+    height: 30vh;
+    width: 15vw;
+    background-color: yellow;
+}
+.card8{
+    height: 30vh;
+    width: 15vw;
+    background-color: purple;
+}
+.card9{
+    height: 30vh;
+    width: 15vw;
+    background-color: maroon;
+}
+.card10{
+    height: 30vh;
+    width: 15vw;
+    background-color: olive;
+}
