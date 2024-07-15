@@ -1,0 +1,191 @@
+body{
+    margin: 0;
+    font-family: 'KoHo', sans-serif;
+
+}
+.father-fst-page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("bg.png");
+    background-size: cover;
+
+}
+/*-----------------------------------------FIRST PAGE------------------------------------------_________*/
+
+
+.text-img{
+    width: 69vw;
+    height: 39vh;
+    background-color: white;
+    display: flex;
+}
+
+
+.img{
+    width: 50%;
+    height: 100%;
+    background-image: url("image 3.png");
+    background-size: cover;
+}
+
+.txt{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.title{
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 0;
+}
+
+.paragraph{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+button{
+    width: 409px;
+    height: 76px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+.click{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+/*----------------------------------------------------SECOND PAGE-------------------------------------------------*/
+
+
+.second-page{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 105px;
+}
+.vt{
+    width: 62vw;
+    height: 18vh;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 110px;
+    align-items: end;
+
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+/*--------------------------------------------------THIRD PAGE-----------------------------------------------------*/
+
+
+.third-page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card1{
+    width: 30vw;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    margin-top: 15vh;
+    display: grid;
+    justify-content: center;
+
+
+
+
+}
+.card2{
+    width: 30vw;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    margin-top: 15vh;
+    display: grid;
+    justify-content: center;
+
+}
+.card3{
+    width: 30vw;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    margin-top: 15vh;
+    display: grid;
+    justify-content: center;
+
+
+}
+
+
+.cardimg1{
+    width: 408.6px;
+    height: 214px;
+    margin-top: 25px
+}
+
+.carttl{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 150px;
+    margin-top: 32px;
+
+}
+
+.parimg{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.price{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 180px;
+}
+
+button{
+    color: #6B6666;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
